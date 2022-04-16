@@ -5,7 +5,7 @@ This project writes a functional and structured code in python using a jupyter n
 
 The dataset and instructions are in: data-scientist-technical-test
 
-The notebook code are saved with output as: Auto_Insurance.ipynb
+The jupyter notebook code is saved with output as: Auto_Insurance.ipynb
 
 The predictions is in a csv file as: "submission_logistic.csv" 
 and contain the variables "index" and "p_target" (as suggestion in the kaggle competition)
