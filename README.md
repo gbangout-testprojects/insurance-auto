@@ -10,5 +10,6 @@ explaining with markdown comment important modelling decisions including metric 
 generating a csv file with the predictions
 
 Submission of the predictions on kaggle (gbangout) give the following scores:
+
 Public Score:  5298.47588
 Private score: 4778.58827
