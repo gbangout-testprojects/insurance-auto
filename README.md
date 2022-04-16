@@ -4,7 +4,9 @@ Results of the prediction of client claims on auto insurance
 This project writes a functional and structured code in python using a jupyter notebook. Data used are train_auto.csv and test_auto.csv. The project predicts client claims (target is TARGET_TAG) on auto insurance data. The completed code and submission predictions are found in this repository (https://github.com/gbangout/data-scientist-technical-test-result/tree/master). 
 
 The notebook code are saved with output as: Auto_Insurance.ipynb
-The predictions is in a csv file as "submission_logistic.csv" and contain the variables "index" and "p_target" (as suggestion in the kaggle competition)
+
+The predictions is in a csv file as: "submission_logistic.csv" 
+and contain the variables "index" and "p_target" (as suggestion in the kaggle competition)
 
 Attention is made on:
 
